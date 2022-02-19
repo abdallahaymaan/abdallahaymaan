@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @abdallahaymaan
-- 🌱 I’m currently learning Computer Engineering in the German University in Cairo
+- 🌱 I’m a Computer Science and Engineering graduate from the German University in Cairo
 - 📫 How to reach me: abdallahaymaan@gmail.com
 
 <!---
